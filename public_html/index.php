@@ -1,9 +1,4 @@
 <?php
-/**
- * ---.
- */
-
-declare(strict_types=1);
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
@@ -22,8 +17,8 @@ define('LARAVEL_DIR', __DIR__.'/../laravel');
 |
 */
 
-if (file_exists($maintenance = LARAVEL_DIR.'/storage/framework/maintenance.php')) {
-    require $maintenance;
+if (file_exists(LARAVEL_DIR.'/storage/framework/maintenance.php')) {
+    require LARAVEL_DIR.'/storage/framework/maintenance.php';
 }
 
 /*
@@ -51,7 +46,6 @@ require LARAVEL_DIR.'/vendor/autoload.php';
 */
 
 $app = require_once LARAVEL_DIR.'/bootstrap/app.php';
-
 // set the public path to this directory
 $app->bind('path.public', function () {
     return __DIR__;

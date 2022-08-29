@@ -1,13 +1,9 @@
-<?php
-
-declare(strict_types=1);
-
-return [
-    'adm_theme' => 'AdminLTE',
-    'enable_ads' => '1',
-    'main_module' => 'Test',
-    'primary_lang' => 'it',
-    'pub_theme' => 'DirectoryBs5',
-    'home' => 'test',
-    'search_action' => '/it/tests',
-];
+<?php return array (
+  'adm_theme' => 'AdminLTE',
+  'enable_ads' => '1',
+  'home' => 'test',
+  'main_module' => 'Test',
+  'primary_lang' => 'it',
+  'pub_theme' => 'LaravelIo',
+  'search_action' => '/it/tests',
+);

@@ -1,0 +1,19 @@
+{
+    "Xot": true,
+    "Theme": true,
+    "Settings": true,
+    "LU": true,
+    "Geo": true,
+    "Forum": true,
+    "FormX": true,
+    "Food": true,
+    "ChatBot": true,
+    "Blog": true,
+    "Cart": true,
+    "Tenant": true,
+    "Rating": true,
+    "Tag": true,
+    "Mediamonitor": true,
+    "Media": true,
+    "Chart": true
+}
