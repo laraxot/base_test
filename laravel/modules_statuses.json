@@ -1,0 +1,12 @@
+{
+    "Blog": true,
+    "LU": true,
+    "Xot": true,
+    "Lang": true,
+    "Tag": true,
+    "Tenant": true,
+    "Test": true,
+    "Theme": true,
+    "Rating": true,
+    "Geo": true
+}

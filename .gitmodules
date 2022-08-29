@@ -1,0 +1,42 @@
+[submodule "bashscripts"]
+	path = bashscripts
+	url = https://github.com/laraxot/bashscripts.git
+[submodule "laravel/Modules/LU"]
+	path = laravel/Modules/LU
+	url = https://github.com/laraxot/module_lu.git
+[submodule "laravel/Modules/Xot"]
+	path = laravel/Modules/Xot
+	url = https://github.com/laraxot/module_xot.git
+[submodule "laravel/Modules/Tenant"]
+	path = laravel/Modules/Tenant
+	url = https://github.com/laraxot/module_tenant.git
+[submodule "laravel/Modules/Lang"]
+	path = laravel/Modules/Lang
+	url = https://github.com/laraxot/module_lang.git
+[submodule "laravel/Modules/Theme"]
+	path = laravel/Modules/Theme
+	url = https://github.com/laraxot/module_theme.git
+[submodule "laravel/Themes/AdminLTE"]
+	path = laravel/Themes/AdminLTE
+	url = https://github.com/laraxot/theme_adminlte.git
+[submodule "laravel/Themes/DirectoryBs5"]
+	path = laravel/Themes/DirectoryBs5
+	url = https://github.com/laraxot/theme_directorybs5.git
+[submodule "laravel/Modules/Test"]
+	path = laravel/Modules/Test
+	url = https://github.com/laraxot/module_test
+[submodule "laravel/Modules/Blog"]
+	path = laravel/Modules/Blog
+	url = https://github.com/laraxot/module_blog
+[submodule "laravel/Modules/Tag"]
+	path = laravel/Modules/Tag
+	url = https://github.com/laraxot/module_tag
+[submodule "laravel/Modules/Rating"]
+	path = laravel/Modules/Rating
+	url = https://github.com/laraxot/module_rating
+[submodule "laravel/Modules/Geo"]
+	path = laravel/Modules/Geo
+	url = https://github.com/laraxot/module_geo
+[submodule "laravel/Themes/LaravelIo"]
+	path = laravel/Themes/LaravelIo
+	url = https://github.com/laraxot/theme_laravelio
