@@ -13,7 +13,6 @@
     "Tenant": true,
     "Rating": true,
     "Tag": true,
-    "Mediamonitor": true,
     "Media": true,
     "Chart": true
 }

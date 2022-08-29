@@ -1,9 +1,11 @@
-<?php return array (
+<?php
+
+return array(
   'adm_theme' => 'AdminLTE',
   'enable_ads' => '1',
-  'home' => 'test',
+  'home' => 'media',
   'main_module' => 'Test',
   'primary_lang' => 'it',
-  'pub_theme' => 'LaravelIo',
+  'pub_theme' => 'Test',
   'search_action' => '/it/tests',
 );

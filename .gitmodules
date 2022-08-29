@@ -19,9 +19,6 @@
 [submodule "laravel/Themes/AdminLTE"]
 	path = laravel/Themes/AdminLTE
 	url = https://github.com/laraxot/theme_adminlte.git
-[submodule "laravel/Themes/DirectoryBs5"]
-	path = laravel/Themes/DirectoryBs5
-	url = https://github.com/laraxot/theme_directorybs5.git
 [submodule "laravel/Modules/Test"]
 	path = laravel/Modules/Test
 	url = https://github.com/laraxot/module_test
@@ -40,3 +37,6 @@
 [submodule "laravel/Themes/LaravelIo"]
 	path = laravel/Themes/LaravelIo
 	url = https://github.com/laraxot/theme_laravelio
+[submodule "laravel/Themes/Test"]
+	path = laravel/Themes/Test
+	url = https://github.com/laraxot/theme_test

@@ -1,7 +1,3 @@
-<?php
-
-declare(strict_types=1);
-
-return [
-
-];
+<?php return array (
+  'home' => 'Modules\Xot\Models\Home',
+);
