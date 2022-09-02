@@ -6,5 +6,5 @@
     'profile' => 'Modules\Xot\Models\Profile',
   ),
   'primary_lang' => 'it',
-  'pub_theme' => 'LaravelIo',
+  'pub_theme' => 'Test',
 );
